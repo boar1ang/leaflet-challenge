@@ -1,0 +1,19 @@
+/* css for leaflet-challenge */
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%; width: 100%;
+}
+
+.legend {
+  padding: 10px;
+  margin-bottom: 18px;
+  margin-left: 20px;
+
+}

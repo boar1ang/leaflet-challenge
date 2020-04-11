@@ -112,11 +112,3 @@ for (var i = 0; i < quakeData.length; i++) {
       
 
   }); //END of API/GeoJSON function(data)  ++++++++++++++++++++++++++++++++++++++++++++++++++    
-
-  
-
-    
-  
-
-  
-
